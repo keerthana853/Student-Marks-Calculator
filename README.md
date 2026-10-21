@@ -1,8 +1,7 @@
 # Student-Marks-Calculator
-A simple Java program to calculate student total marks,percentage and grade
-0Student Marks Calculator 🎓
 
-A simple Java project that calculates students' total marks, percentage, and grade based on marks entered for five subjects.
+                 
+  A simple Java project that calculates students' total marks, percentage, and grade based on marks entered for five subjects.
 
 📌 Project Overview
 
